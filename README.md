@@ -1,2 +1,0 @@
-Usman Imam
-theme: minima
